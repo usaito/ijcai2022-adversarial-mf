@@ -1,0 +1,90 @@
+coat:
+  cause:
+    dim: 40.0
+    domain_pen: 0.028906183366646365
+    lam: 0.005675520713014445
+  damf:
+    dim: 30.0
+    domain_pen: 0.0529148185520749
+    lam: 0.001958103552839226
+  dr-1bitmc:
+    dim: 30.0
+    lam: 0.0013949458198611203
+  dr-both:
+    dim: 30.0
+    lam: 0.0013949458198611203
+  dr-item:
+    dim: 5.0
+    lam: 0.0017270871764777324
+  dr-oracle:
+    dim: 5.0
+    lam: 0.0016015088329686244
+  dr-uniform:
+    dim: 30.0
+    lam: 0.0013949458198611203
+  dr-user:
+    dim: 30.0
+    lam: 0.0013949458198611203
+  ips-1bitmc:
+    dim: 35.0
+    lam: 0.002329464914502258
+  ips-both:
+    dim: 35.0
+    lam: 0.002329464914502258
+  ips-item:
+    dim: 5.0
+    lam: 0.0023675846449251227
+  ips-oracle:
+    dim: 5.0
+    lam: 0.002096753454848285
+  ips-uniform:
+    dim: 35.0
+    lam: 0.002329464914502258
+  ips-user:
+    dim: 35.0
+    lam: 0.002329464914502258
+yahoo:
+  cause:
+    dim: 40.0
+    domain_pen: 8.950864537428873e-08
+    lam: 6.844256939283264e-05
+  damf:
+    dim: 40.0
+    domain_pen: 0.037962630637465515
+    lam: 5.535996110026577e-05
+  dr-1bitmc:
+    dim: 5.0
+    lam: 3.130203100053214e-05
+  dr-both:
+    dim: 5.0
+    lam: 8.684173722412225e-05
+  dr-item:
+    dim: 10.0
+    lam: 7.343270858258381e-05
+  dr-oracle:
+    dim: 30.0
+    lam: 3.029753648936167e-05
+  dr-uniform:
+    dim: 5.0
+    lam: 3.029753648936167e-05
+  dr-user:
+    dim: 40.0
+    lam: 0.0001285222829970366
+  ips-1bitmc:
+    dim: 40.0
+    lam: 0.0001285222829970366
+  ips-both:
+    dim: 40.0
+    lam: 0.0001285222829970366
+  ips-item:
+    dim: 40.0
+    lam: 0.0001285222829970366
+  ips-oracle:
+    dim: 30.0
+    lam: 6.636628849324032e-05
+  ips-uniform:
+    dim: 40.0
+    lam: 0.0001285222829970366
+  ips-user:
+    dim: 40.0
+    lam: 7.343270858258381e-05

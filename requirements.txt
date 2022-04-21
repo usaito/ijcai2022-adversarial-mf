@@ -1,0 +1,7 @@
+numpy==1.19.1
+pandas==1.12
+optuna==0.17.0
+scikit-learn==0.23.1
+tensorflow==1.15.4
+plotly==3.10.0
+pyyaml==5.1.2

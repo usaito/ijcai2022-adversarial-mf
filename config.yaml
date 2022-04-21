@@ -1,0 +1,6 @@
+eta: 0.01
+batch_size: 2048
+max_iters: 2500
+num_steps: 20
+num_sims: 10
+n_trials: 20
